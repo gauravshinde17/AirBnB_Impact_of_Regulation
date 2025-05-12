@@ -4,7 +4,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 ## Project Link
 
-[AirBnB Impact of Regulations](https://github.com/yourusername/airbnb-listings-reviews-analysis)
+[AirBnB Impact of Regulations](https://www.kaggle.com/code/gauravshinde017/airbnb-project)
 
 ![](AirBnB.png)
 
@@ -23,8 +23,8 @@ The dataset includes the following files:
 - **reviews.csv**  
   Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.
 
-**Dataset Source:**  
-AirBnB Listing and Review Dataset
+- **Dataset Source**  
+  [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
 
 ## Insights:
 - The number of Airbnb listings has steadily increased since the platform's launch, with prices also rising initially due to early adopters and growing demand.
