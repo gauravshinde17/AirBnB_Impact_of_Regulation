@@ -6,6 +6,8 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 [AirBnB Impact of Regulations](https://github.com/yourusername/airbnb-listings-reviews-analysis)
 
+![](Movie_Rental_Store.png)
+
 ## Overview
 
 This dataset includes Airbnb data for over 250,000 listings across 10 major cities globally. It contains detailed information on hosts, pricing, locations, room types, and more than 5 million historical guest reviews. This data offers valuable insights into trends within the short-term rental market.
