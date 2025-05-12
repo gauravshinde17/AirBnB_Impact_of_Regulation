@@ -6,7 +6,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 [AirBnB Impact of Regulations](https://github.com/yourusername/airbnb-listings-reviews-analysis)
 
-![](Movie_Rental_Store.png)
+![](AirBnB.png)
 
 ## Overview
 
